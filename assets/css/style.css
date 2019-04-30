@@ -1,0 +1,23 @@
+.container {
+    font-family: 'Questrial', sans-serif;
+}
+
+.jumbotron {
+    background-color: coral;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-header, .btn {
+    background-color: coral;
+    color: white;
+    border-color: coral;
+    font-weight: bold;
+}
+
+.form-group {
+    color: darkslategrey;
+    border-color: coral;
+    font-weight: bold;
+}
